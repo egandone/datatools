@@ -14,6 +14,9 @@ Utilities for performing ad-hoc data changes and analysis
 ## History
 * 0.0.1 - initial running version
   * basic secured "hello world" spring boot application
+* 0.1.1 - added Github login
+  * removed fixed default login
+  * can only use Github login now
 
 ## References
 * [Securing a Web Application](https://spring.io/guides/gs/securing-web/) - starting tutorial for creating a secured a secured web application with spring
